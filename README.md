@@ -2,7 +2,7 @@
 
 ### Experiência Profissional
 
-- Suporte técnico a 140 usuários e configuração de estações Windows + RDP
+- Suporte técnico a  usuários e configuração de estações Windows + RDP
 - Administração completa de servidores **Windows Server** (2012, 2016, 2019, 2021)
 - Configuração avançada de **Linux Slackware 13/14/15 do zero**:
   - Servidores de e-mail (Sendmail + Procmail + Postfix + redirecionamento)
